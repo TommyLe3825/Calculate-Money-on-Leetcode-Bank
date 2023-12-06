@@ -27,3 +27,5 @@ Explanation: After the 20th day, the total is (1 + 2 + 3 + 4 + 5 + 6 + 7) + (2 +
 Constraints:
 
 1 <= n <= 1000
+
+https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/
