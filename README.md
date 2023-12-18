@@ -27,5 +27,3 @@ Explanation: After the 20th day, the total is (1 + 2 + 3 + 4 + 5 + 6 + 7) + (2 +
 Constraints:
 
 1 <= n <= 1000
-
-* The deposit is increased everyday and on Monday, he will put $1 more than the previous Monday (
