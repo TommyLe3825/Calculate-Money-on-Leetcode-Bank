@@ -28,4 +28,4 @@ Constraints:
 
 1 <= n <= 1000
 
-https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/
+* The deposit is increased everyday and on Monday, he will put $1 more than the previous Monday (
